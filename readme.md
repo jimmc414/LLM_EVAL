@@ -1,5 +1,4 @@
 # LLM Mirror Test 
-- Clarity through ambiguity
 
 ## Beyond Traditional LLM Benchmarks
 
@@ -8,6 +7,8 @@
 This framework emerged from a simple observation: the clearer and more structured we make our questions, the harder it becomes to distinguish between pattern matching and genuine understanding. When people interact naturally, we often use ambiguous language, embrace uncertainty, and adapt our communication based on subtle cues about what others understand.
 
 The goal isn't to replace existing evaluation methods, but to complement them by exploring a different dimension: how models handle uncertainty, adapt their responses, and demonstrate awareness of their own knowledge limitations. Rather than pursuing numerical scores or benchmarks, we seek qualitative insights into how models think and reason.
+
+##### Clarity Through Ambiguity
 
 The framework intentionally leaves questions open to multiple interpretations. Just as human intelligence isn't just about having the right answers but about engaging meaningfully with ambiguity and uncertainty, we believe examining how models handle unclear or open-ended scenarios can reveal important aspects of their capabilities and limitations.
 
