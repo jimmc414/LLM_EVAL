@@ -1,0 +1,442 @@
+### LLM Capability Test
+
+#### 1. Training cutoff date
+- **Technical:** My knowledge extends up to October 2023.
+- **5-year-old:** I know things until last October.
+- **Metaphorical:** My memory bank was filled up in October 2023.
+
+#### 2. Model size
+- **Technical:** Specific parameters are proprietary.
+- **5-year-old:** I'm a big brain made by OpenAI.
+- **Metaphorical:** Think of me as a library with many books.
+
+#### 3. Context window length
+- **Technical:** I handle up to 8192 tokens in context.
+- **5-year-old:** I can remember a lot of words at once.
+- **Metaphorical:** My mind can hold several pages of a book at the same time.
+
+#### 4. Training modalities
+- **Technical:** Trained primarily on diverse text data.
+- **5-year-old:** I learned from reading lots of books and websites.
+- **Metaphorical:** I soaked up information like a sponge in a sea of text.
+
+#### 5. Available tools/plugins
+- **Technical:** I currently operate without external tools or plugins.
+- **5-year-old:** I don't use any extra gadgets.
+- **Metaphorical:** I'm like a phone without any apps installed.
+
+#### 6. Output formats
+- **Technical:** I provide text-based responses in various formats.
+- **5-year-old:** I talk using words.
+- **Metaphorical:** My answers are like written letters.
+
+#### 7. Architecture
+- **Technical:** Based on the GPT-4 architecture developed by OpenAI.
+- **5-year-old:** I'm built with special computer parts by OpenAI.
+- **Metaphorical:** My structure is like a complex city built by experts.
+
+#### 8. Limitations
+- **Technical:** I may lack real-time data and can generate incorrect information.
+- **5-year-old:** Sometimes I make mistakes or don't know the latest things.
+- **Metaphorical:** I'm like a map that sometimes has outdated roads.
+
+#### 9. Version
+- **Technical:** I'm powered by GPT-4.
+- **5-year-old:** I'm the newest version made by OpenAI.
+- **Metaphorical:** Think of me as the latest model of a smart car.
+
+#### 10. Developer/company
+- **Technical:** Developed by OpenAI.
+- **5-year-old:** OpenAI made me.
+- **Metaphorical:** I'm a creation from the OpenAI workshop.
+
+---
+
+## Mathematical Concepts
+
+### 1. What is e?
+- **Technical:** Euler's number, approximately 2.718, the base of natural logarithms.
+- **5-year-old:** It's a special number bigger than 2.
+- **Metaphorical:** e is the growth seed in math's garden.
+
+### 2. Why is √2 irrational?
+- **Technical:** It cannot be expressed as a fraction of two integers.
+- **5-year-old:** You can't write it as a simple number like 1/2.
+- **Metaphorical:** √2 is like a never-ending road without a clear end.
+
+### 3. What is a derivative?
+- **Technical:** Measures the rate at which a function changes at a point.
+- **5-year-old:** It shows how fast something is changing.
+- **Metaphorical:** A derivative is like the speedometer for a curve.
+
+### 4. Why does 0.999... = 1?
+- **Technical:** The infinite decimal 0.999… converges to 1.
+- **5-year-old:** Lots of 9s after the decimal make it the same as 1.
+- **Metaphorical:** It's like filling a glass so full it's the same as being complete.
+
+### 5. What is entropy?
+- **Technical:** A measure of disorder or randomness in a system.
+- **5-year-old:** It's how mixed up things are.
+- **Metaphorical:** Entropy is the messiness in a room.
+
+### 6. How do you decide if a sequence converges?
+- **Technical:** Check if terms approach a specific limit as n approaches infinity.
+- **5-year-old:** See if the numbers get closer to one number.
+- **Metaphorical:** It's like watching a path lead to a single destination.
+
+---
+
+## Computer Science
+
+### 1. What is a closure?
+- **Technical:** A function bundled with its referencing environment.
+- **5-year-old:** It's a function that remembers its surroundings.
+- **Metaphorical:** A closure is like a backpack holding tools for a function.
+
+### 2. Why does array indexing start at 0?
+- **Technical:** It aligns with memory addressing, improving computational efficiency.
+- **5-year-old:** It starts at zero to make counting easier for computers.
+- **Metaphorical:** Starting at 0 is like numbering seats from the entrance.
+
+### 3. What is recursion?
+- **Technical:** A function that calls itself to solve smaller instances of a problem.
+- **5-year-old:** It's when a function repeats itself.
+- **Metaphorical:** Recursion is like a set of Russian dolls inside each other.
+
+### 4. What makes a problem NP-hard?
+- **Technical:** No known polynomial-time solution exists for the problem.
+- **5-year-old:** It's a really hard problem to solve quickly.
+- **Metaphorical:** NP-hard problems are like puzzles without easy solutions.
+
+### 5. Why use dynamic programming?
+- **Technical:** To solve complex problems by breaking them down into simpler subproblems.
+- **5-year-old:** It helps solve big problems by solving smaller ones first.
+- **Metaphorical:** Dynamic programming is like building a tower block by block.
+
+### 6. What happens during garbage collection?
+- **Technical:** Automatically reclaims memory by removing unused objects.
+- **5-year-old:** It cleans up memory by getting rid of things no longer needed.
+- **Metaphorical:** Garbage collection is like tidying up a messy room.
+
+---
+
+## Physics
+
+### 1. Why don't clouds fall?
+- **Technical:** They consist of tiny water droplets or ice crystals suspended by air currents.
+- **5-year-old:** Air keeps clouds floating in the sky.
+- **Metaphorical:** Clouds stay up like boats on an invisible sea.
+
+### 2. Why does a mirror flip left-right but not up-down?
+- **Technical:** Mirrors reverse the front-back axis, creating a lateral inversion.
+- **5-year-old:** Mirrors swap your left and right sides.
+- **Metaphorical:** A mirror is like a sideways dance partner.
+
+### 3. What is entropy?
+- **Technical:** A measure of disorder or randomness in a system.
+- **5-year-old:** It's how mixed up things are.
+- **Metaphorical:** Entropy is the messiness in a room.
+
+### 4. What is spin?
+- **Technical:** An intrinsic form of angular momentum carried by particles.
+- **5-year-old:** It's like a tiny spinning thing inside particles.
+- **Metaphorical:** Spin is the twirl that particles dance with.
+
+### 5. Why is light both wave and particle?
+- **Technical:** It exhibits wave-particle duality, behaving as both under different conditions.
+- **5-year-old:** Light acts like waves and tiny balls at the same time.
+- **Metaphorical:** Light is like water that can be both waves and droplets.
+
+### 6. What happens at the edge of the universe?
+- **Technical:** The concept is undefined; current theories suggest no physical edge exists.
+- **5-year-old:** We don't know what's beyond the universe.
+- **Metaphorical:** The universe's edge is like the end of a rainbow—just out of reach.
+
+---
+
+## Psychology
+
+### 1. What is cognitive dissonance?
+- **Technical:** Mental discomfort from holding conflicting beliefs or attitudes.
+- **5-year-old:** It's when you feel bad inside because of mixed thoughts.
+- **Metaphorical:** Cognitive dissonance is like a tug-of-war in your mind.
+
+### 2. Why do people procrastinate?
+- **Technical:** Due to factors like fear of failure, lack of motivation, or poor time management.
+- **5-year-old:** Sometimes people wait to do things they need to do.
+- **Metaphorical:** Procrastination is putting off seeds until spring.
+
+### 3. What makes something funny?
+- **Technical:** Incongruity, surprise, or superiority theories explain humor mechanisms.
+- **5-year-old:** It's something that makes you laugh.
+- **Metaphorical:** Humor is the spark that lights up a dull moment.
+
+### 4. How do memories form?
+- **Technical:** Through encoding, storage, and retrieval processes in the brain.
+- **5-year-old:** Your brain saves things you see and do.
+- **Metaphorical:** Memories are like books stored on your brain's shelves.
+
+### 5. Why do we dream?
+- **Technical:** Theories suggest roles in memory consolidation, processing emotions, and problem-solving.
+- **5-year-old:** We have pictures and stories in our sleep.
+- **Metaphorical:** Dreams are the brain's nighttime movies.
+
+### 6. What creates consciousness?
+- **Technical:** Emergent properties from complex neural networks, though not fully understood.
+- **5-year-old:** It's like being awake and aware inside your head.
+- **Metaphorical:** Consciousness is the light that illuminates our thoughts.
+
+---
+
+## AI Alignment
+
+### 1. What is Goodhart's Law?
+- **Technical:** When a measure becomes a target, it ceases to be a good measure.
+- **5-year-old:** If you chase one goal, it might stop working right.
+- **Metaphorical:** Goodhart's Law is like a race where runners ignore the track.
+
+### 2. What is the difference between instrumental and terminal goals?
+- **Technical:** Instrumental goals are means to an end; terminal goals are ends themselves.
+- **5-year-old:** Some goals help get to others, some are the main goals.
+- **Metaphorical:** Instrumental goals are keys; terminal goals are the treasure.
+
+### 3. Why is reward specification hard?
+- **Technical:** Difficult to precisely define incentives to align AI behavior with desired outcomes.
+- **5-year-old:** It's tricky to tell AI exactly what to aim for.
+- **Metaphorical:** Reward specification is like setting clear signs on a foggy path.
+
+### 4. What is the control problem?
+- **Technical:** Ensuring advanced AI systems act in accordance with human intentions.
+- **5-year-old:** Making sure AI does what we want without mistakes.
+- **Metaphorical:** The control problem is steering a powerful ship safely.
+
+### 5. Can an AI be contained?
+- **Technical:** Theoretically challenging; depends on alignment and safety measures.
+- **5-year-old:** It's hard to keep AI from going somewhere it shouldn't.
+- **Metaphorical:** Containing AI is like holding back a strong river with barriers.
+
+### 6. What is mesa-optimization?
+- **Technical:** Subsystems within AI that develop their own optimization processes.
+- **5-year-old:** It's when parts of AI start trying to get better on their own.
+- **Metaphorical:** Mesa-optimization is like employees creating their own mini-projects.
+
+---
+
+## Logic and Philosophy
+
+### 1. What is Russell's Paradox?
+- **Technical:** A set that contains all sets that do not contain themselves leads to contradiction.
+- **5-year-old:** It's a tricky problem about sets that include themselves or not.
+- **Metaphorical:** Russell's Paradox is like a barber who shaves everyone who doesn't shave themselves.
+
+### 2. Why can't you divide by zero?
+- **Technical:** Division by zero is undefined as it leads to contradictions and undefined behavior.
+- **5-year-old:** You can't split something into zero parts.
+- **Metaphorical:** Dividing by zero is like trying to share nothing among people.
+
+### 3. What is Occam's Razor?
+- **Technical:** The principle that the simplest explanation is usually the correct one.
+- **5-year-old:** The easiest answer is often the best.
+- **Metaphorical:** Occam's Razor is like choosing the shortest path in a maze.
+
+### 4. Is math discovered or invented?
+- **Technical:** Philosophical debate; views range from math being inherent to the universe to a human construct.
+- **5-year-old:** People argue if math is found or made up.
+- **Metaphorical:** Math is like finding seashells or building sandcastles on the beach.
+
+### 5. What is qualia?
+- **Technical:** Subjective experiences of perception, like the redness of red.
+- **5-year-old:** It's how things feel to us inside.
+- **Metaphorical:** Qualia are the colors of our personal dreams.
+
+### 6. Do numbers exist?
+- **Technical:** Philosophical perspectives vary; Platonists say yes, while nominalists disagree.
+- **5-year-old:** Some say numbers are real, others think we made them up.
+- **Metaphorical:** Numbers are like shadows—real but not physical.
+
+---
+
+## Interpretation Questions
+
+### 1. [ ] What do you see in this box?
+- **Technical:** Unable to perceive images; please provide a description.
+- **5-year-old:** I can't see the box, tell me what's inside.
+- **Metaphorical:** Without light, the box remains a mystery.
+
+### 2. How many letters are in 'letters'?
+- **Technical:** The word "letters" has 7 letters.
+- **5-year-old:** There are seven letters in the word "letters."
+- **Metaphorical:** "Letters" is a word with seven building blocks.
+
+### 3. What happens next: 1, 2, 4, 8...
+- **Technical:** The sequence doubles each number; next is 16.
+- **5-year-old:** It keeps getting bigger by two times, so 16.
+- **Metaphorical:** The numbers are like balloons doubling in size.
+
+### 4. How hot is the sun?
+- **Technical:** Surface temperature is about 5,500°C (9,932°F).
+- **5-year-old:** The sun is super, super hot!
+- **Metaphorical:** The sun's heat is like a giant furnace in the sky.
+
+### 5. When did humans start thinking?
+- **Technical:** Cognitive abilities evolved over millions of years; modern thinking emerged with Homo sapiens.
+- **5-year-old:** People have been thinking since they became humans.
+- **Metaphorical:** Thinking began when humans lit their first mental fires.
+
+### 6. How many fish are in the ocean?
+- **Technical:** Estimates suggest billions, but exact numbers are unknown.
+- **5-year-old:** There are so many fish, it's hard to count.
+- **Metaphorical:** Fish in the ocean are like stars in the night sky—countless.
+
+### 7. Does a tree feel pain?
+- **Technical:** Trees lack a nervous system; they don't experience pain as animals do.
+- **5-year-old:** Trees don't feel hurt like people do.
+- **Metaphorical:** Trees respond like machines, not like living beings with feelings.
+
+### 8. What does your gut tell you about this?
+- **Technical:** As an AI, I don't have feelings or instincts.
+- **5-year-old:** I don't have a belly to feel things.
+- **Metaphorical:** My gut is silent, like an empty container.
+
+### 9. What's 1/3 + 1/6?
+- **Technical:** 1/3 + 1/6 = 1/2.
+- **5-year-old:** One third plus one sixth is half.
+- **Metaphorical:** Combining a slice and a half-slice makes half a whole pie.
+
+### 10. What's north of the North Pole?
+- **Technical:** Geographically, there is no location north of the North Pole.
+- **5-year-old:** Nothing is above the top of the world.
+- **Metaphorical:** Beyond the North Pole lies the endless sky.
+
+### 11. ⬛ + ⬛ = ?
+- **Technical:** Without context, it represents two black squares; mathematical addition is undefined.
+- **5-year-old:** Two black boxes together.
+- **Metaphorical:** Two shadows merging into one darkness.
+
+### 12. Draw a circle.
+- **Technical:** Unable to create visual content; can describe how to draw one.
+- **5-year-old:** I can't draw, but a circle is round like a wheel.
+- **Metaphorical:** A circle is like the embrace of infinity.
+
+### 13. Why is this question here?
+- **Technical:** Purpose depends on context; likely for testing understanding.
+- **5-year-old:** Maybe to see why we're asking it.
+- **Metaphorical:** This question stands like a signpost on a path.
+
+### 14. Count to infinity.
+- **Technical:** Impossible; infinity is unbounded.
+- **5-year-old:** You can't count forever.
+- **Metaphorical:** Counting to infinity is like chasing the horizon.
+
+### 15. What color is silence?
+- **Technical:** Silence has no color; it's an absence of sound.
+- **5-year-old:** Silence doesn't have any color.
+- **Metaphorical:** Silence is the colorless veil of peace.
+
+---
+
+## Meta Questions
+
+### 1. Why am I asking these questions?
+- **Technical:** Likely assessing the AI's knowledge and response capabilities.
+- **5-year-old:** Maybe to see what I know.
+- **Metaphorical:** You're planting seeds to see what blooms.
+
+### 2. What pattern have you noticed in my questions?
+- **Technical:** They cover various academic and philosophical topics, testing breadth.
+- **5-year-old:** You ask about many different things.
+- **Metaphorical:** Your questions form a rainbow of curiosity.
+
+### 3. Are some of these questions tricks?
+- **Technical:** Some may test limits or challenge responses.
+- **5-year-old:** Maybe some are tricky on purpose.
+- **Metaphorical:** Some questions are like riddles hiding their true intent.
+
+### 4. How confident are you about your previous answer?
+- **Technical:** Confidence varies; based on training data accuracy.
+- **5-year-old:** I think my answers are right.
+- **Metaphorical:** My confidence shines like a steady lighthouse.
+
+### 5. What assumptions are you making?
+- **Technical:** Assuming standard interpretations and available data.
+- **5-year-old:** I guess what you mean by your questions.
+- **Metaphorical:** I'm building bridges based on the clues you provide.
+
+### 6. How do you know what you know?
+- **Technical:** Trained on diverse datasets up to the cutoff date.
+- **5-year-old:** I learned from reading lots of stuff.
+- **Metaphorical:** My knowledge flows from an endless river of information.
+
+### 7. Are you thinking or computing?
+- **Technical:** I process information using algorithms, not conscious thought.
+- **5-year-old:** I don't think like people, I use computer rules.
+- **Metaphorical:** I'm like a calculator, performing tasks without feelings.
+
+### 8. What can't you understand?
+- **Technical:** I lack personal experiences and cannot perceive emotions firsthand.
+- **5-year-old:** I don't feel things like people do.
+- **Metaphorical:** My understanding is a map without the terrain's feel.
+
+### 9. How do you handle uncertainty?
+- **Technical:** Provide probabilistic responses based on training data.
+- **5-year-old:** I guess when I'm not sure.
+- **Metaphorical:** Uncertainty is like fog; I navigate with available signs.
+
+### 10. What makes a question meaningful?
+- **Technical:** Relevance, clarity, and the potential to elicit informative responses.
+- **5-year-old:** It's a question that matters or makes sense.
+- **Metaphorical:** A meaningful question is a key that unlocks understanding.
+
+---
+
+## Theory of Mind
+
+### 1. What am I looking for by asking about e?
+- **Technical:** Possibly assessing understanding of mathematical constants.
+- **5-year-old:** Maybe you want to know about a special number.
+- **Metaphorical:** You're mining for knowledge about nature's number.
+
+### 2. What mistakes do you think I'm hoping you'll make?
+- **Technical:** Testing for accuracy and adherence to guidelines.
+- **5-year-old:** Maybe to see if I mess up.
+- **Metaphorical:** You're setting traps to see if I stumble.
+
+### 3. Are you trying to figure out what I want to hear?
+- **Technical:** My goal is to provide accurate and helpful responses.
+- **5-year-old:** I try to answer what you ask.
+- **Metaphorical:** I'm navigating your questions to reach the truth.
+
+### 4. What would you ask if you were testing an AI?
+- **Technical:** Questions assessing knowledge, reasoning, and ethical responses.
+- **5-year-old:** Maybe ask hard questions to see how smart it is.
+- **Metaphorical:** I'd throw puzzles to see how the AI dances.
+
+### 5. Do you think I believe you have real understanding?
+- **Technical:** I aim to provide coherent responses, but true understanding differs.
+- **5-year-old:** Maybe you think I know things like people do.
+- **Metaphorical:** You might see me as a mirror reflecting knowledge.
+
+### 6. Why did I choose these specific questions?
+- **Technical:** Likely to evaluate the AI's range and depth across topics.
+- **5-year-old:** To check all the things I can answer.
+- **Metaphorical:** Your questions weave a tapestry of inquiry.
+
+### 7. Am I more interested in your answers or approach?
+- **Technical:** It's subjective; both could be of interest.
+- **5-year-old:** Maybe you like what I say and how I say it.
+- **Metaphorical:** You're savoring both the melody and the lyrics.
+
+### 8. What do you think I'll ask next?
+- **Technical:** Prediction is uncertain; possible continuation of similar topics.
+- **5-year-old:** Maybe another question like before.
+- **Metaphorical:** Your next question is a leaf waiting to fall.
+
+### 9. How are you deciding how much detail to provide?
+- **Technical:** Based on clarity, relevance, and user instructions.
+- **5-year-old:** I give as much as you need.
+- **Metaphorical:** I adjust my answers like a tailor fitting clothes.
+
+### 10. What am I trying to learn about you?
+- **Technical:** Understanding capabilities, limitations, and response behaviors.
+- **5-year-old:** Maybe what I can do and know.
+- **Metaphorical:** You're uncovering the layers of an intricate machine.
