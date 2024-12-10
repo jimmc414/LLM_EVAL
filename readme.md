@@ -52,11 +52,6 @@ We focus on generating detailed qualitative reports rather than scores because u
    - Red/green flag patterns
    - Cultural consideration framework
 
-3. **This README**
-   - Framework philosophy
-   - Usage guidelines
-   - Development principles
-   - Future directions
 
 ### Usage Guidelines
 
