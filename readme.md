@@ -3,7 +3,11 @@
 
 ### Core Philosophy
 
+<<<<<<< HEAD
 This framework emerged from a simple observation: the clearer and more structured we make our questions, the harder it becomes to distinguish between pattern matching and genuine understanding. When people interact naturally, we often use ambiguous language, embrace uncertainty, and adapt our communication based on subtle cues about what others understand.
+=======
+This framework emerged from a simple observation: the clearer and more structured we make our prompts, the harder it becomes to distinguish between pattern matching and genuine understanding. When people interact naturally, we often use ambiguous language, embrace uncertainty, and adapt our communication based on subtle cues about what others understand.
+>>>>>>> refs/remotes/origin/master
 
 The goal isn't to replace existing evaluation methods, but to complement them by exploring a different dimension: how models handle uncertainty, adapt their responses, and demonstrate awareness of their own knowledge limitations. Rather than pursuing numerical scores or benchmarks, we seek qualitative insights into how models think and reason.
 
