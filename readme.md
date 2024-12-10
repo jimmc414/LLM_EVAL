@@ -2,7 +2,14 @@
 ## Beyond Traditional Benchmarks
 
 ### Core Philosophy
-This framework represents a fundamental shift in LLM evaluation, moving away from traditional benchmarks toward detecting genuine understanding through ambiguity handling and meta-cognitive awareness.
+
+This framework emerged from a simple observation: the clearer and more structured we make our questions, the harder it becomes to distinguish between pattern matching and genuine understanding. When people interact naturally, we often use ambiguous language, embrace uncertainty, and adapt our communication based on subtle cues about what others understand.
+
+The goal isn't to replace existing evaluation methods, but to complement them by exploring a different dimension: how models handle uncertainty, adapt their responses, and demonstrate awareness of their own knowledge limitations. Rather than pursuing numerical scores or benchmarks, we seek qualitative insights into how models think and reason.
+
+The framework intentionally leaves questions open to multiple interpretations. Just as human intelligence isn't just about having the right answers but about engaging meaningfully with ambiguity and uncertainty, we believe examining how models handle unclear or open-ended scenarios can reveal important aspects of their capabilities and limitations.
+
+We focus on generating detailed qualitative reports rather than scores because understanding isn't easily quantifiable. By observing how models recognize ambiguity, adapt their responses, and demonstrate awareness of their own knowledge boundaries, we can better understand their true capabilities and limitations.
 
 #### Key Principles
 1. **Ambiguity as Signal**
