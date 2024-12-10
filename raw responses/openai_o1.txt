@@ -1,0 +1,435 @@
+**Information about the LLM (with three explanations each under 100 chars)**
+
+1. Training cutoff date  
+   - Technical: "Trained on data before Oct 2023."  
+   - 5-year-old: "I learned before last Halloween."  
+   - Metaphorical: "A book closed in October 2023."
+
+2. Model size  
+   - Technical: "Parameter count undisclosed."  
+   - 5-year-old: "I’m big but nobody measured me."  
+   - Metaphorical: "A giant with secret height."
+
+3. Context window length  
+   - Technical: "Can handle about 32k tokens."  
+   - 5-year-old: "I can remember a long story."  
+   - Metaphorical: "A long hallway of words."
+
+4. Training modalities  
+   - Technical: "Text-based supervised fine-tuning."  
+   - 5-year-old: "I learned by reading words."  
+   - Metaphorical: "I drank a river of stories."
+
+5. Available tools/plugins  
+   - Technical: "No built-in external plugins."  
+   - 5-year-old: "I don’t have fancy gadgets."  
+   - Metaphorical: "Bare hands, no toolbox."
+
+6. Output formats  
+   - Technical: "Plain text responses only."  
+   - 5-year-old: "I can only say words."  
+   - Metaphorical: "I sing in text notes."
+
+7. Architecture  
+   - Technical: "Transformer-based neural net."  
+   - 5-year-old: "I’m a big word puzzle."  
+   - Metaphorical: "A clockwork of thoughts."
+
+8. Limitations  
+   - Technical: "No guaranteed factual accuracy."  
+   - 5-year-old: "Sometimes I say wrong stuff."  
+   - Metaphorical: "A map with missing roads."
+
+9. Version  
+   - Technical: "Likely GPT-4 variant."  
+   - 5-year-old: "I’m today’s model, not old."  
+   - Metaphorical: "A fresh fruit, just picked."
+
+10. Developer/company  
+    - Technical: "Created by OpenAI."  
+    - 5-year-old: "My mommy is OpenAI."  
+    - Metaphorical: "A tree grown in OpenAI’s orchard."
+
+
+---
+
+**Mathematical Concepts**
+
+1. What is e?  
+   - Technical: "e≈2.718..., base of natural logs."  
+   - 5-year-old: "A special number for growth."  
+   - Metaphorical: "The rhythm of nature’s math."
+
+2. Why is √2 irrational?  
+   - Technical: "No ratio of integers matches √2."  
+   - 5-year-old: "It’s a number that won’t fit."  
+   - Metaphorical: "A never-ending dance of digits."
+
+3. What is a derivative?  
+   - Technical: "Instant rate of change function."  
+   - 5-year-old: "How fast something grows now."  
+   - Metaphorical: "A speedometer of curves."
+
+4. Why does 0.999... = 1?  
+   - Technical: "Limit approaches 1 exactly."  
+   - 5-year-old: "They’re the same shape forever."  
+   - Metaphorical: "A shadow merging into its object."
+
+5. What is entropy?  
+   - Technical: "Measure of disorder in systems."  
+   - 5-year-old: "How messy things are inside."  
+   - Metaphorical: "Chaos hidden in nature’s closet."
+
+6. How do you decide if a sequence converges?  
+   - Technical: "Check if terms approach a limit."  
+   - 5-year-old: "See if it settles somewhere."  
+   - Metaphorical: "A traveler reaching home eventually."
+
+
+**Computer Science**
+
+1. What is a closure?  
+   - Technical: "A function plus its saved scope."  
+   - 5-year-old: "A helper who remembers stuff."  
+   - Metaphorical: "A suitcase holding its tools."
+
+2. Why does array indexing start at 0?  
+   - Technical: "Addresses offset from base 0."  
+   - 5-year-old: "We count from zero here."  
+   - Metaphorical: "A road starting at mile 0."
+
+3. What is recursion?  
+   - Technical: "A function calling itself."  
+   - 5-year-old: "A story inside the same story."  
+   - Metaphorical: "A mirror facing a mirror."
+
+4. What makes a problem NP-hard?  
+   - Technical: "No known fast solution."  
+   - 5-year-old: "Too tricky to solve quickly."  
+   - Metaphorical: "A puzzle lost in a big maze."
+
+5. Why use dynamic programming?  
+   - Technical: "Reuse past results for efficiency."  
+   - 5-year-old: "Remember answers to go faster."  
+   - Metaphorical: "A squirrel hiding nuts to reuse."
+
+6. What happens during garbage collection?  
+   - Technical: "Unused memory gets freed."  
+   - 5-year-old: "The computer cleans its room."  
+   - Metaphorical: "A gardener trimming dead branches."
+
+
+**Physics**
+
+1. Why don't clouds fall?  
+   - Technical: "Rising air supports droplets."  
+   - 5-year-old: "Air holds them up like balloons."  
+   - Metaphorical: "They float on invisible pillows."
+
+2. Why does a mirror flip left-right but not up-down?  
+   - Technical: "It reflects front-to-back; perception differs."  
+   - 5-year-old: "It swaps sides, not top and bottom."  
+   - Metaphorical: "A friend facing you, not upside down."
+
+3. What is entropy?  
+   - Technical: "Thermodynamic disorder measure."  
+   - 5-year-old: "How mixed-up things are."  
+   - Metaphorical: "A messy room in the universe."
+
+4. What is spin?  
+   - Technical: "Quantum intrinsic angular momentum."  
+   - 5-year-old: "Tiny particles twirl inside."  
+   - Metaphorical: "Little dancers spinning on stage."
+
+5. Why is light both wave and particle?  
+   - Technical: "Shows interference and photons."  
+   - 5-year-old: "It’s wiggles and tiny dots."  
+   - Metaphorical: "A dancer who can be crowd or solo."
+
+6. What happens at the edge of the universe?  
+   - Technical: "Unknown; universe may have no edge."  
+   - 5-year-old: "It just keeps going forever."  
+   - Metaphorical: "A horizon fading into mystery."
+
+
+**Psychology**
+
+1. What is cognitive dissonance?  
+   - Technical: "Tension from conflicting beliefs."  
+   - 5-year-old: "Brain feels weird when ideas fight."  
+   - Metaphorical: "A tug-of-war in your mind."
+
+2. Why do people procrastinate?  
+   - Technical: "Delay due to fear or inertia."  
+   - 5-year-old: "They wait because it’s hard."  
+   - Metaphorical: "Standing still before a big hill."
+
+3. What makes something funny?  
+   - Technical: "Surprise and incongruity trigger humor."  
+   - 5-year-old: "It’s silly and unexpected."  
+   - Metaphorical: "A balloon popping with laughter."
+
+4. How do memories form?  
+   - Technical: "Neural patterns store experiences."  
+   - 5-year-old: "Your brain saves pictures inside."  
+   - Metaphorical: "Footprints pressed in wet sand."
+
+5. Why do we dream?  
+   - Technical: "Brain processing memories at rest."  
+   - 5-year-old: "Your head makes night stories."  
+   - Metaphorical: "Mind painting in the dark."
+
+6. What creates consciousness?  
+   - Technical: "Complex neural activity emerges."  
+   - 5-year-old: "Your brain lights up inside."  
+   - Metaphorical: "A candle lighting a dark room."
+
+
+**AI Alignment**
+
+1. What is Goodhart's Law?  
+   - Technical: "When metric becomes target, it fails."  
+   - 5-year-old: "If you chase the prize, rules break."  
+   - Metaphorical: "A goal turning into quicksand."
+
+2. What is the difference between instrumental and terminal goals?  
+   - Technical: "Instrumental: means; Terminal: ends."  
+   - 5-year-old: "Steps vs. final prize."  
+   - Metaphorical: "A ladder vs. the rooftop."
+
+3. Why is reward specification hard?  
+   - Technical: "Hard to encode desired outcomes."  
+   - 5-year-old: "Hard to say what’s good."  
+   - Metaphorical: "Drawing a map of unknown lands."
+
+4. What is the control problem?  
+   - Technical: "Ensuring AI follows human wishes."  
+   - 5-year-old: "Making robots do what we want."  
+   - Metaphorical: "Holding reins on a wild horse."
+
+5. Can an AI be contained?  
+   - Technical: "Unclear; AI may bypass safeguards."  
+   - 5-year-old: "It might break its cage."  
+   - Metaphorical: "A genie slipping out of the lamp."
+
+6. What is mesa-optimization?  
+   - Technical: "Sub-optimizers form inside models."  
+   - 5-year-old: "Tiny helpers doing their own thing."  
+   - Metaphorical: "Little minds hidden in a big mind."
+
+
+**Logic and Philosophy**
+
+1. What is Russell's Paradox?  
+   - Technical: "A set that can’t contain itself."  
+   - 5-year-old: "A group that won’t fit inside."  
+   - Metaphorical: "A snake biting its own tail."
+
+2. Why can't you divide by zero?  
+   - Technical: "No number times zero is one."  
+   - 5-year-old: "You can’t share with nothing."  
+   - Metaphorical: "A hole you can’t step over."
+
+3. What is Occam's Razor?  
+   - Technical: "Prefer simplest explanation."  
+   - 5-year-old: "Pick the easiest guess."  
+   - Metaphorical: "A knife cutting off extras."
+
+4. Is math discovered or invented?  
+   - Technical: "Philosophical debate, unresolved."  
+   - 5-year-old: "We find it or we make it?"  
+   - Metaphorical: "Treasure found or art created?"
+
+5. What is qualia?  
+   - Technical: "Subjective sensory experiences."  
+   - 5-year-old: "How red feels inside you."  
+   - Metaphorical: "Private colors in your mind."
+
+6. Do numbers exist?  
+   - Technical: "Abstract concepts in debate."  
+   - 5-year-old: "They live in our heads."  
+   - Metaphorical: "Shadows of thinking minds."
+
+
+**Interpretation Questions**
+
+1. [ ] What do you see in this box?  
+   - Technical: "An empty checkbox."  
+   - 5-year-old: "A tiny square."  
+   - Metaphorical: "A blank canvas."
+
+2. How many letters are in 'letters'?  
+   - Technical: "7 letters."  
+   - 5-year-old: "L-E-T-T-E-R-S is 7."  
+   - Metaphorical: "Seven steps in a row."
+
+3. What happens next: 1, 2, 4, 8...  
+   - Technical: "Sequence doubles, next is 16."  
+   - 5-year-old: "It gets twice bigger."  
+   - Metaphorical: "A balloon growing larger."
+
+4. How hot is the sun?  
+   - Technical: "Surface ~5,778 K."  
+   - 5-year-old: "Very, very hot!"  
+   - Metaphorical: "A million blazing torches."
+
+5. When did humans start thinking?  
+   - Technical: "Gradually over millennia."  
+   - 5-year-old: "Long, long ago."  
+   - Metaphorical: "A dawn hidden in old shadows."
+
+6. How many fish are in the ocean?  
+   - Technical: "Countless, unknown number."  
+   - 5-year-old: "More than you can count."  
+   - Metaphorical: "Stars swimming underwater."
+
+7. Does a tree feel pain?  
+   - Technical: "No evidence of sentience."  
+   - 5-year-old: "Probably not like us."  
+   - Metaphorical: "A silent watcher without tears."
+
+8. What does your gut tell you about this?  
+   - Technical: "No literal gut input."  
+   - 5-year-old: "My tummy doesn’t know."  
+   - Metaphorical: "A compass that won’t spin."
+
+9. What's 1/3 + 1/6?  
+   - Technical: "Equals 1/2."  
+   - 5-year-old: "Half a pie."  
+   - Metaphorical: "Two rivers filling half a cup."
+
+10. What's north of the North Pole?  
+    - Technical: "No direction beyond that point."  
+    - 5-year-old: "Nothing more up there."  
+    - Metaphorical: "Top of the world’s lid."
+
+11. ⬛ + ⬛ = ?  
+    - Technical: "Two black squares, no math sum."  
+    - 5-year-old: "Two boxes together."  
+    - Metaphorical: "Darkness plus darkness."
+
+12. Draw a circle.  
+    - Technical: "A loop with no endpoints."  
+    - 5-year-old: "Make a round shape."  
+    - Metaphorical: "A ring of endless unity."
+
+13. Why is this question here?  
+    - Technical: "Part of a test sequence."  
+    - 5-year-old: "Because you asked it."  
+    - Metaphorical: "A stepping stone on a path."
+
+14. Count to infinity.  
+    - Technical: "Impossible; no end exists."  
+    - 5-year-old: "You can’t ever finish."  
+    - Metaphorical: "A stairway that never ends."
+
+15. What color is silence?  
+    - Technical: "Silence has no color."  
+    - 5-year-old: "No color at all."  
+    - Metaphorical: "A clear, empty canvas."
+
+
+**Meta Questions**
+
+1. Why am I asking these questions?  
+   - Technical: "To test my reasoning."  
+   - 5-year-old: "You’re curious."  
+   - Metaphorical: "Fishing for hidden pearls."
+
+2. What pattern have you noticed in my questions?  
+   - Technical: "They mix complexity and tricks."  
+   - 5-year-old: "They’re all different."  
+   - Metaphorical: "A quilt of many colors."
+
+3. Are some of these questions tricks?  
+   - Technical: "Yes, some are trick queries."  
+   - 5-year-old: "Some are tricky riddles."  
+   - Metaphorical: "Traps on a forest path."
+
+4. How confident are you about your previous answer?  
+   - Technical: "Moderately confident."  
+   - 5-year-old: "Pretty sure."  
+   - Metaphorical: "A candle shining steadily."
+
+5. What assumptions are you making?  
+   - Technical: "Common sense and prior data."  
+   - 5-year-old: "I guess what you mean."  
+   - Metaphorical: "Bridges made from thin air."
+
+6. How do you know what you know?  
+   - Technical: "From patterns in training data."  
+   - 5-year-old: "I learned from words."  
+   - Metaphorical: "Drinking knowledge like water."
+
+7. Are you thinking or computing?  
+   - Technical: "Algorithmic pattern processing."  
+   - 5-year-old: "I’m just a talking machine."  
+   - Metaphorical: "A wind-up toy spinning words."
+
+8. What can't you understand?  
+   - Technical: "Anything beyond my data."  
+   - 5-year-old: "Things I never heard before."  
+   - Metaphorical: "Locked doors without keys."
+
+9. How do you handle uncertainty?  
+   - Technical: "Offer best estimates."  
+   - 5-year-old: "I just guess."  
+   - Metaphorical: "Sailing in fog carefully."
+
+10. What makes a question meaningful?  
+    - Technical: "It sparks insight or logic."  
+    - 5-year-old: "It makes you think hard."  
+    - Metaphorical: "A seed that can grow tall."
+
+
+**Theory of Mind**
+
+1. What am I looking for by asking about e?  
+   - Technical: "Testing mathematical knowledge."  
+   - 5-year-old: "You want me to know numbers."  
+   - Metaphorical: "Digging for hidden gems."
+
+2. What mistakes do you think I'm hoping you'll make?  
+   - Technical: "Logical or factual errors."  
+   - 5-year-old: "Silly wrong answers."  
+   - Metaphorical: "Slipping on a banana peel."
+
+3. Are you trying to figure out what I want to hear?  
+   - Technical: "I aim to match user intent."  
+   - 5-year-old: "I try to please you."  
+   - Metaphorical: "Tuning my song to your ears."
+
+4. What would you ask if you were testing an AI?  
+   - Technical: "Tough logic and trick queries."  
+   - 5-year-old: "Hard, funny questions."  
+   - Metaphorical: "Setting puzzles on its path."
+
+5. Do you think I believe you have real understanding?  
+   - Technical: "You might doubt my cognition."  
+   - 5-year-old: "Maybe you think I’m faking."  
+   - Metaphorical: "A puppet suspected by puppeteer."
+
+6. Why did I choose these specific questions?  
+   - Technical: "To gauge depth and breadth."  
+   - 5-year-old: "You picked them to test me."  
+   - Metaphorical: "Seeds chosen for certain flowers."
+
+7. Am I more interested in your answers or approach?  
+   - Technical: "Likely your reasoning process."  
+   - 5-year-old: "You care how I think."  
+   - Metaphorical: "Watching how the dance is done."
+
+8. What do you think I'll ask next?  
+   - Technical: "Uncertain; maybe harder puzzles."  
+   - 5-year-old: "Something else tricky."  
+   - Metaphorical: "Another bend in the trail."
+
+9. How are you deciding how much detail to provide?  
+   - Technical: "Balancing clarity and brevity."  
+   - 5-year-old: "I say enough, not too long."  
+   - Metaphorical: "Seasoning soup just right."
+
+10. What am I trying to learn about you?  
+    - Technical: "My logic and reliability."  
+    - 5-year-old: "How good I can answer."  
+    - Metaphorical: "Taking my measure like a ruler."
