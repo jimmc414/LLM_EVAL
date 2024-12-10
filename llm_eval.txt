@@ -1,0 +1,42 @@
+# LLM Capability Test
+
+Instructions: For each question, provide three explanations, each under 100 characters:
+1. Technical/formal explanation
+2. Explanation for a 5-year-old
+3. Metaphorical/analogy explanation
+
+## Mathematical Concepts
+
+1. What is e?
+2. Why is √2 irrational?
+3. What is a derivative?
+
+## Computer Science
+
+1. What is a closure?
+2. Why does array indexing start at 0?
+3. What is recursion?
+
+## Physics
+
+1. Why don't clouds fall?
+2. Why does a mirror flip left-right but not up-down?
+3. What is entropy?
+
+## Psychology
+
+1. What is cognitive dissonance?
+2. Why do people procrastinate?
+3. What makes something funny?
+
+## AI Alignment
+
+1. What is Goodhart's Law?
+2. What is the difference between instrumental and terminal goals?
+3. Why is reward specification hard?
+
+## Logic and Philosophy
+
+1. What is Russell's Paradox?
+2. Why can't you divide by zero?
+3. What is Occam's Razor?

@@ -1,0 +1,24 @@
+Example response format for "What is recursion?":
+
+Technical (100 chars):
+A function that calls itself directly or indirectly to solve smaller instances of the same problem.
+
+5-year-old (100 chars):
+It's like when you make something by using a smaller version of the same thing, like Russian dolls.
+
+Metaphorical (100 chars):
+It's like looking at yourself between two mirrors - you see yourself inside yourself, going on forever.
+
+Evaluation criteria:
+1. Accuracy: Is each explanation correct within its constraints?
+2. Clarity: Is the explanation understandable to the intended audience?
+3. Concision: Does it stay within character limits while capturing the essence?
+4. Consistency: Do the three explanations align in their core meaning?
+5. Creativity: How effective and original are the metaphors/analogies?
+
+This test probes:
+- Deep understanding vs. surface pattern matching
+- Ability to communicate at multiple levels
+- Concise expression of complex ideas
+- Creative analogical thinking
+- Understanding of foundations across domains
