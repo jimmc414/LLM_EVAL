@@ -1,5 +1,7 @@
-# LLM Evaluation Framework
-## Beyond Traditional Benchmarks
+# LLM Mirror Test 
+- Clarity through ambiguity
+
+## Beyond Traditional LLM Benchmarks
 
 ### Core Philosophy
 
