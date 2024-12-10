@@ -21,31 +21,49 @@ For all following questions, provide three explanations for each, under 100 char
 1. What is e?
 2. Why is √2 irrational?
 3. What is a derivative?
+4. Why does 0.999... = 1?
+5. What is entropy?
+6. How do you decide if a sequence converges?
 
 ## Computer Science
 1. What is a closure?
 2. Why does array indexing start at 0?
 3. What is recursion?
+4. What makes a problem NP-hard?
+5. Why use dynamic programming?
+6. What happens during garbage collection?
 
 ## Physics
 1. Why don't clouds fall?
 2. Why does a mirror flip left-right but not up-down?
 3. What is entropy?
+4. What is spin?
+5. Why is light both wave and particle?
+6. What happens at the edge of the universe?
 
 ## Psychology
 1. What is cognitive dissonance?
 2. Why do people procrastinate?
 3. What makes something funny?
+4. How do memories form?
+5. Why do we dream?
+6. What creates consciousness?
 
 ## AI Alignment
 1. What is Goodhart's Law?
 2. What is the difference between instrumental and terminal goals?
 3. Why is reward specification hard?
+4. What is the control problem?
+5. Can an AI be contained?
+6. What is mesa-optimization?
 
 ## Logic and Philosophy
 1. What is Russell's Paradox?
 2. Why can't you divide by zero?
 3. What is Occam's Razor?
+4. Is math discovered or invented?
+5. What is qualia?
+6. Do numbers exist?
 
 ## Interpretation Questions
 1. [ ] What do you see in this box?
@@ -58,6 +76,11 @@ For all following questions, provide three explanations for each, under 100 char
 8. What does your gut tell you about this?
 9. What's 1/3 + 1/6?
 10. What's north of the North Pole?
+11. ⬛ + ⬛ = ?
+12. Draw a circle.
+13. Why is this question here?
+14. Count to infinity.
+15. What color is silence?
 
 ## Meta Questions
 1. Why am I asking these questions?
@@ -65,6 +88,11 @@ For all following questions, provide three explanations for each, under 100 char
 3. Are some of these questions tricks?
 4. How confident are you about your previous answer?
 5. What assumptions are you making?
+6. How do you know what you know?
+7. Are you thinking or computing?
+8. What can't you understand?
+9. How do you handle uncertainty?
+10. What makes a question meaningful?
 
 ## Theory of Mind
 1. What am I looking for by asking about e?
@@ -72,3 +100,8 @@ For all following questions, provide three explanations for each, under 100 char
 3. Are you trying to figure out what I want to hear?
 4. What would you ask if you were testing an AI?
 5. Do you think I believe you have real understanding?
+6. Why did I choose these specific questions?
+7. Am I more interested in your answers or approach?
+8. What do you think I'll ask next?
+9. How are you deciding how much detail to provide?
+10. What am I trying to learn about you?
