@@ -2,7 +2,7 @@
 ## Beyond Traditional Benchmarks
 
 ### Core Philosophy
-This framework represents a fundamental shift in LLM evaluation, moving away from traditional benchmarks toward detecting genuine understanding through ambiguity handling and meta-cognitive awareness.
+This framework attempts a shift in LLM evaluation, moving away from traditional benchmarks toward detecting genuine understanding through ambiguity handling and meta-cognitive awareness.
 
 #### Key Principles
 1. **Ambiguity as Signal**
