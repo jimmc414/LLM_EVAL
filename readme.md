@@ -1,6 +1,6 @@
 # LLM Mirror Test 
 
-## Personality and theory of mind evaluation of Dec 2024 Frontier models
+## Personality and Theory of Mind evaluations of Dec 2024 Frontier models
 
 ### Core Philosophy
 
